@@ -1,0 +1,11 @@
+# Example URLs file for bulk download
+# Lines starting with # are comments and will be ignored
+# Add one YouTube URL per line
+
+# Example single video
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# Example playlist
+# https://www.youtube.com/playlist?list=PLrAXtmRdnEQy6nuLMt9JiYIk3HBzjKoQ5
+
+# Add your URLs below:
